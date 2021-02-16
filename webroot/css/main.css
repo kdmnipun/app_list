@@ -1,0 +1,135 @@
+/**--Main CSS--**/
+.panel-pad {
+    border-top: 2px solid #337ab7;
+}
+
+.button-add {
+    margin-left: 5%;
+    display: block;
+}
+.bttn{
+    position: relative;
+    top: 74px;
+    display: block;
+    z-index: 9999;  
+}
+.back-btn{
+	margin-top: 25px;
+}
+
+form.cmxform label {
+    width: auto;
+    float: none;
+    font-weight: normal;
+}
+
+.cmxform label input {
+    display: inline-block;
+    margin-right: 5px;
+    position: relative;
+    top: 2px;    
+}
+
+form.cmxform label.error, label.error {
+    color: red;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.count{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: block;
+    color: white; 
+}
+.count i{
+    color: white;
+    margin-top: 10%;
+    margin-left: 37%;
+    font-size: 35px;   
+}
+.count p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.blue{
+    background: #337ab7;
+}
+.green{
+    background: #5cb85c;
+}
+.orange{
+    background: #f0ad4e;
+}
+.red{
+    background: #d9534f;
+    margin-left: 30%;
+}
+.red p{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 26%;
+}
+.text{
+
+}
+.text-style{
+    font-size: 40px;
+    text-align: center
+}
+
+.heading-text{
+    font-family: 'Poiret One', cursive;
+    font-size: 25px; 
+}
+
+.header-color{
+
+}
+.style-border {
+    border-top: none;
+}
+.small-item {
+    color: #585555;
+    font-style: italic;
+    display: block;
+    padding-top: 7px;
+}
+
+.logo-img img {
+    display: block;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: -7px;
+}
+
+.mg-top{
+    margin-top: 25px;
+}
+.btn.s-btn {
+    border: 1px solid #ddd;
+}
+
+.style-text legend {
+    font-size: 20px;
+    margin-top: 15px;
+}
+.panel-footer{
+    height: 101px;
+}
+
+.navbar-brand.icon-custom {
+	font-weight: bold;
+	margin-left: -23px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.hd {
+    height: 423px;
+}
+
+#selectbox_id {
+    margin-top: 33px;
+}
